@@ -1,0 +1,7 @@
+Projekt to otwarta aplikacja przeglądarkowa do tworzenia i powtarzania fiszek w systemie spaced repetition, ale z naciskiem na motywację i lepsze statystyki.
+Łatwe tworzenie fiszek (przód-tył, cloze, obrazki, dźwięki), algorytm powtórek z możliwością dostosowania, wbudowany heatmap (jak GitHub contributions) pokazujący codzienne serie powtórek, licznik streaków, średnia dziennych powtórek, dni nauki z rzędu
+Dla studentów, samouków, uczniów/studentów, osób 16–65 lat, które chcą się uczyć regularnie i mieć wszystko zorganizowane w jednym miejscu.
+Często po tygodniu czy dwóch większość materiału po prostu wylatuje z głowy. Spaced repetition pokazuje fiszki dokładnie w momencie, kiedy zaczynasz je zapominać, więc wiedza zostaje na dłużej.
+Zamiast tracić czas na powtarzanie rzeczy, które już umiesz na pamięć, algorytm przepuszcza tylko te słabe karty. Resztę odkłada na później, dzięki czemu uczysz się efektywniej
+Nie musisz się zastanawiać, od czego w ogóle zacząć powtórki. Aplikacja sama podaje Ci dokładnie to, co dzisiaj powinieneś przejrzeć. Planowane funkcje na start: edytor fiszek, przeglądanie w trybie nauki, heatmap + podstawowe statystyki.
+
