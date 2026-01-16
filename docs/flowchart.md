@@ -1,3 +1,4 @@
+```mermaid
     flowchart TD
         Start([Start])
         End([Koniec])
@@ -46,3 +47,4 @@
 
         Dashboard --> Logout[Wyloguj]
         Logout --> End
+```
