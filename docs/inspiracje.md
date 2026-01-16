@@ -1,0 +1,51 @@
+# Inspiracje do projektu aplikacji fiszek
+
+## 1. Inspiracje (słowa, skojarzenia, pomysły)
+- regularna nauka
+- codzienne powtórki
+- nie zapominać po tygodniu
+- motywacja do nauki
+- małe porcje wiedzy
+- systematyczność
+- fiszki
+- spaced repetition
+- widoczny postęp
+- streaki
+- wszystko w jednym miejscu
+
+## 2. Lista elementów projektu
+- aplikacja działająca w przeglądarce
+- tworzenie fiszek
+- różne typy fiszek (zwykłe, dźwiękowe, obrazki)
+- tryb nauki z powtórkami
+- algorytm przypominający fiszki
+- statystyki nauki, heatmapa, wykresy
+- licznik dni nauki z rzędu
+
+## 3. Wstępne dane wejściowe
+
+### Dane użytkownika
+- login / e-mail
+- hasło
+- ustawienia użytkownika (np. tempo powtórek)
+
+### Dane fiszek
+- tekst przodu fiszki
+- tekst tyłu fiszki
+- typ fiszki (zwykła / cloze)
+- opcjonalny obrazek
+- opcjonalny plik dźwiękowy
+
+### Funkcje
+- dodawanie i edytowanie fiszek
+- codzienna lista fiszek do powtórki
+- ocenianie czy fiszka była łatwa czy trudna
+- liczenie ile dni z rzędu się uczę
+- podstawowe statystyki (ile fiszek, ile powtórek, wykresy itp.)
+
+## 4. Źródła pomysłu
+- własna potrzeba nauki
+- zapominanie materiału po krótkim czasie
+- korzystanie z fiszek
+- chęć widzenia postępów w nauce
+- potrzeba prostego planu: „co dziś powtórzyć”
